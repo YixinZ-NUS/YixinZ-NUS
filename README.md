@@ -1,6 +1,7 @@
 ## Hi there 👋
 Zhang Yixin @Singapore 
-[Email](mailto:hi.yixinz@gmail.com] \
+
+[Email](mailto:hi.yixinz@gmail.com) [LinkedIn](https://www.linkedin.com/in/zhang-yixin-0980aa312/)
 
 ***Prospective Machine L. Eng./ Data Scientist/ Reliability Eng.***
 
