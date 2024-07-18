@@ -1,10 +1,13 @@
 ## Hi there 👋
-
-<!--
-**YixinZ-NUS/YixinZ-NUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Zhang Yixin
+@Singapore
+🌱 Background:
+### Graduate Diploma, 2023- Feb 2025
+      Institute of Systems Science, National University of Singapore
+### Undergrad, 2020-2024
+      Harbin Institute of Technology, Harbin, China/ 哈工大（本部）
+      #[School of EIE/ 电信学院](https://seie.hit.edu.cn/English/list.htm)
+      
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
