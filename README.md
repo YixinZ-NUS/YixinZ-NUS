@@ -23,8 +23,8 @@ Harbin Institute of Technology, Harbin, China/ 哈工大（本部）
 AI's application in  Medical/Pathology (in a broader sence, AI4Science)\
 LLM/VLM\
 Some ideas:
-- fine-tuning Llama 3-8b with [DSPy] (https://github.com/stanfordnlp/dspy).
-- using #link("https://huggingface.co/microsoft/Florence-2-large")[Florence-2] as a RAG measure to VLMs.
+- fine-tuning Llama 3-8b with [DSPy](https://github.com/stanfordnlp/dspy).
+- using [Florence-2](https://huggingface.co/microsoft/Florence-2-large) as a RAG measure to VLMs.
 - Visual Foundation Models
 
 DevOps and Cloud Native, dockers and k8s, etc.\
