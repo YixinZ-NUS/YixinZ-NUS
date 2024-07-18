@@ -5,7 +5,7 @@ Zhang Yixin @Singapore
 
 ***Prospective Machine L. Eng./ Data Scientist/ Reliability Eng.***
 
-Dedicated to tailoring Engineering skills
+Dedicated to tailoring Engineering skills, and apply aesthetics to design in a human-centered way
 
 ### 🌱 Background:
 *Graduate Diploma, 2023- Feb 2025*
@@ -30,7 +30,7 @@ Some ideas:
 DevOps and Cloud Native, dockers and k8s, etc.\
 ML infrastructure and MLOps
 ### 👣 Contributions:
-[llm-cookbook](https://github.com/datawhalechina/llm-cookbook) by *Datawhale*
+Core contributor to [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) by *Datawhale*
 ### 📚 Reading habits:
 Physical book lover. Thanks CLB@NUS❤️.\
 *Booklist 2024*: 
@@ -46,7 +46,7 @@ Physical book lover. Thanks CLB@NUS❤️.\
 - 与小泽征尔共度的午后音乐时光/ [Absolutely on Music: Conversations with SeijiOzawa](https://www.goodreads.com/book/show/28092838-absolutely-on-music)
 
 ### ⚡ Other hobbies :
-Traveling (in a slower (and more 'local') pace), Cooking, Indie video games that kindles innovation, Voluntary works\
+Traveling (in a slower (and more 'local') pace), Cooking, Indie video games that kindles innovation, translaton and subtitling, voluntary works\
 Trying to give public speeches or sharing?
 
 -->
