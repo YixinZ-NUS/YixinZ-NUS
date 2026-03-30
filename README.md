@@ -1,5 +1,5 @@
 ## Hi there 👋
-Zhang Yixin @Singapore 
+I prefer sailing to surfing in this agentic age. 
 
 [Email](mailto:hi.yixinz@gmail.com) [LinkedIn](https://www.linkedin.com/in/zhang-yixin-0980aa312/)
 
