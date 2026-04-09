@@ -20,15 +20,7 @@ Harbin Institute of Technology, Harbin, China/ 哈工大（本部）
 - Mandarin (Native, with Putonghua Cert)
 - English: IELTS 7.5, CET6 646 out of 710 (top <2%)
 ### 🔭 Current Interests:
-AI's application in  Medical/Pathology (in a broader sence, AI4Science)\
-LLM/VLM\
-Some ideas:
-- fine-tuning Llama 3-8b with [DSPy](https://github.com/stanfordnlp/dspy).
-- using [Florence-2](https://huggingface.co/microsoft/Florence-2-large) as a RAG measure to VLMs.
-- Visual Foundation Models
 
-DevOps and Cloud Native, dockers and k8s, etc.\
-ML infrastructure and MLOps
 ### 👣 Contributions:
 Core contributor to [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) by *Datawhale*
 ### 📚 Reading habits:
