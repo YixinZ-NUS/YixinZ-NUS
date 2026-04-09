@@ -1,5 +1,5 @@
 ## Hi there 👋
-I prefer sailing to surfing in this agentic age. 
+Sailing rather than surfing in this agentic age. Always open-minded.
 
 [Email](mailto:hi.yixinz@gmail.com) [LinkedIn](https://www.linkedin.com/in/zhang-yixin-0980aa312/)
 
